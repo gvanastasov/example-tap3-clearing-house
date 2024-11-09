@@ -1,0 +1,16 @@
+{
+  "name": "example-tap3-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "clear": "node src/clear.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1.js": "^5.4.1"
+  }
+}
